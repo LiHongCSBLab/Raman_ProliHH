@@ -1,5 +1,5 @@
 # Applying machine learning for integration of multi-individual Raman-spectroscopy data to identify different stages of proliferating human hepatocytes
-![GA](./assets/GA.jpg.png)
+![GA](./assets/GA.jpg)
 
 ## Repository structure
 * `assets` - ressources for repository
